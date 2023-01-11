@@ -2,7 +2,7 @@ package com.itea.andrii.lecture2.hometask2;
 
 import java.util.Scanner;
 
-public class Main {
+public class MainRenamed {
     public static void main(String[] args) {
         // Task1
         System.out.println("Task1");
