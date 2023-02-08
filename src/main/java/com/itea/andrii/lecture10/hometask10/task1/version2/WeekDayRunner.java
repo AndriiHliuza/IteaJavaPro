@@ -9,7 +9,7 @@ public class WeekDayRunner {
         }
         String weekday1 = "Monday";
         String weekday2 = "ggg";
-        System.out.println(weekday1 + " is exists: " + com.itea.andrii.lecture10.hometask10.task1.version1.WeekDay.isWeekDayExists(weekday1));
-        System.out.println(weekday2 + " is exists: " + com.itea.andrii.lecture10.hometask10.task1.version1.WeekDay.isWeekDayExists(weekday2));
+        System.out.println(weekday1 + " is exists: " + WeekDay.isWeekDayExists(weekday1));
+        System.out.println(weekday2 + " is exists: " + WeekDay.isWeekDayExists(weekday2));
     }
 }
