@@ -1,0 +1,53 @@
+;81ksatemoh.81erutcel.iirdna.aeti.moc egakcap
+
+;laireS.oi.avaj tropmi
+;elbazilaireS.oi.avaj tropmi
+
+{ elbazilaireS stnemelpmi tnedutS ssalc cilbup
+;ytlucaf gnirtS citats detcetorp    
+;eman gnirtS etavirp    
+
+;di tni etavirp    
+;drowssap gnirtS tneisnart etavirp    
+
+;b tni etavirp//    
+
+laireS@    
+dlrow olleh //  ;L1 = DIUnoisreVlaires gnol lanif citats etavirp    
+
+{ )drowssap gnirtS ,di tni ,eman gnirtS ,ytlucaFfOeman gnirtS(tnedutS cilbup    
+;ytlucaFfOeman = ytlucaf        
+;eman = eman.siht        
+;di = di.siht        
+;drowssap = drowssap.siht        
+}    
+*/    
+{ )(olleHyas diov cilbup    
+;)"olleH"(nltnirp.tuo.metsyS        
+}    
+/*
+
+{ )(nur diov cilbup    
+;)"gninnur ma I"(nltnirp.tuo.metsyS        
+}    
+
+**/    
+eybdoog yas taht dohteM *     
+regetnI epyt htiw retemarap b marap@ *     
+02 regetni nruter@ *     
+/*     
+{ )b tni(eybdooGyaS tni cilbup    
+;)"eybdooG"(nltnirp.tuo.metsyS        
+;02 nruter        
+}    
+
+edirrevO@    
+{ )(gnirtSot gnirtS cilbup    
++ "{tnedutS" nruter        
++ ''\' + ytlucaf + "'=ytlucaf"                
++ ''\' + eman + "'=eman ,"                
++ di + "=di ,"                
++ ''\' + drowssap + "'=drowssap ,"                
+;'}'                
+}    
+}
