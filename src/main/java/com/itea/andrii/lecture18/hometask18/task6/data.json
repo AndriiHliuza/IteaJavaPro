@@ -1,0 +1,21 @@
+{
+  "Integers": [
+    4,
+    3
+  ],
+  "Symbols": [
+    "t",
+    "s"
+  ],
+  "Words": [
+    "hello",
+    "by",
+    "by",
+    "what",
+    "today"
+  ],
+  "Floating point": [
+    6.8,
+    2.78
+  ]
+}
